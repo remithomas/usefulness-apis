@@ -25,3 +25,4 @@ Never hesitate to contribute to the follow repositories. Submit _issues_, _comme
 ## How to avoid Useful_mess_ ?
 
 - Just _Pull Request_ never _ninja merge_ or whatever solutions you did to quick fix any _mess_ or dev
+- If you are using [Travis](https://travis-ci.org) always wait the green bullet, even if its' trivial, otherwise why use _travis_ ??
