@@ -1,4 +1,4 @@
-# Usefulmess APIs
+# Usefulness APIs
 
 ## What and Why ?
 
@@ -21,3 +21,7 @@ Never hesitate to contribute to the follow repositories. Submit _issues_, _comme
 - usefulness-api-elixir
 - [usefulness-api-expressjs](https://github.com/remithomas/usefulness-api-expressjs)
 - usefulness-api-zf3
+
+## How to avoid Useful_mess_ ?
+
+- Just _Pull Request_ never _ninja merge_ or whatever solutions you did to quick fix any _mess_ or dev
