@@ -9,20 +9,32 @@ It's like a boilerplate to set up a project quickly.
 ## Features
 
 - user connexion/registration
-- using a database
+- using a database with migration possibilities
 - Docker ready
+- a dev environment already configured (editor, lint, travis, code coverage)
 
 ## Contributions
 
 Never hesitate to contribute to the follow repositories. Submit _issues_, _comments_ and _PRs_ !
+You can also create your own repositories.
 
-## Projects
+## Projects (created and planned)
 
-- usefulness-api-elixir
+### Elixir
+
+- usefulness-api-phoenix
+
+### NodeJS
+
 - [usefulness-api-expressjs](https://github.com/remithomas/usefulness-api-expressjs)
-- usefulness-api-zf3
+- usefulness-api-expressjs-reasonml
 
-## How to avoid Useful_mess_ ?
+### PHP
+
+- [usefulness-api-zf3](https://github.com/remithomas/usefulness-api-zf3) (not ready)
+- usefulness-api-laravel
+
+## How to avoid Useful _mess_ ?
 
 - Just _Pull Request_ never _ninja merge_ or whatever solutions you did to quick fix any _mess_ or dev
 - If you are using [Travis](https://travis-ci.org) always wait the green bullet, even if its' trivial, otherwise why use _travis_ ??
