@@ -1,5 +1,17 @@
 # Usefulness APIs
 
+- [What and Why ?](#what-and-why-)
+- [Features](#features)
+  * [Development features](#development-features)
+  * [User features](#user-features)
+  * [Deploiement features](#deploiement-features)
+- [Contributions](#contributions)
+- [Projects](#projects)
+  * [Elixir](#elixir)
+  * [NodeJS](#nodejs)
+  * [PHP](#php)
+- [How to avoid Useful _mess_ ?](#how-to-avoid-useful-mess-)
+
 ## What and Why ?
 
 An _usefulness_ API is an API with some basic (important) features, like `user connexion`, `setted database` and `Docker` ready. Every projects *have to* be developped in _TDD_.
